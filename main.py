@@ -8,3 +8,5 @@ print(podz5)
 print(podz5_3)    
 
 print("Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
+
+print("To jest drugi update")
