@@ -16,3 +16,5 @@ print("To jest trzeci update")
 print("To jest czwarty update")
 
 print("To jest piąty update")
+
+print("To jest szósty update")
