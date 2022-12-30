@@ -12,3 +12,7 @@ print("Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
 print("To jest drugi update")
 
 print("To jest trzeci update")
+
+print("To jest czwarty update")
+
+print("To jest piąty update")
