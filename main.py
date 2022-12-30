@@ -6,3 +6,5 @@ for i in range(1,101):
         podz5_3.append(i**3)
 print(podz5)        
 print(podz5_3)    
+
+print("Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
