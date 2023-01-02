@@ -10,4 +10,5 @@ print(podz5_3)
 
 print("Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
 
-print("Zmiana 2023.01.02")
+print("Zmiana 1 2023.01.02")
+print("Zmiana 2 2023.01.02")
